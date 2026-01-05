@@ -1,5 +1,7 @@
 # TALOS v16 — Monitor de Balizas de Tráfico
 
+![Image](https://github.com/user-attachments/assets/43753614-e3cb-485c-98e3-c3ac2c67814f)
+
 **Un vistazo a los datos que viajan por las carreteras españolas sin que nadie lo sepa.**
 
 ---
