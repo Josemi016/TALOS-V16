@@ -1,0 +1,95 @@
+{
+  "period": "30d",
+  "granularity": "daily",
+  "series": [
+    {
+      "day": "2026-01-03",
+      "events": 166555,
+      "unique_balizas": 6561,
+      "unique_carreteras": 1693,
+      "unique_municipios": 1781
+    },
+    {
+      "day": "2026-01-04",
+      "events": 174000,
+      "unique_balizas": 6937,
+      "unique_carreteras": 1690,
+      "unique_municipios": 1795
+    },
+    {
+      "day": "2026-01-05",
+      "events": 7456,
+      "unique_balizas": 847,
+      "unique_carreteras": 399,
+      "unique_municipios": 461
+    }
+  ],
+  "top_carreteras_by_day": {
+    "2026-01-03": [
+      {
+        "carretera": "A-7",
+        "events": 7164
+      },
+      {
+        "carretera": "A-4",
+        "events": 3551
+      },
+      {
+        "carretera": "AP-7",
+        "events": 3245
+      },
+      {
+        "carretera": "A-2",
+        "events": 2338
+      },
+      {
+        "carretera": "A-92",
+        "events": 1925
+      }
+    ],
+    "2026-01-04": [
+      {
+        "carretera": "A-7",
+        "events": 5563
+      },
+      {
+        "carretera": "A-4",
+        "events": 4096
+      },
+      {
+        "carretera": "A-6",
+        "events": 3085
+      },
+      {
+        "carretera": "A-5",
+        "events": 2794
+      },
+      {
+        "carretera": "A-2",
+        "events": 2518
+      }
+    ],
+    "2026-01-05": [
+      {
+        "carretera": "A-4",
+        "events": 257
+      },
+      {
+        "carretera": "A-42",
+        "events": 209
+      },
+      {
+        "carretera": "A-6",
+        "events": 206
+      },
+      {
+        "carretera": "N-322",
+        "events": 173
+      },
+      {
+        "carretera": "AP-1",
+        "events": 154
+      }
+    ]
+  }
+}

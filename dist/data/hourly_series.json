@@ -1,0 +1,820 @@
+{
+  "period": "48h",
+  "granularity": "hourly",
+  "series": [
+    {
+      "hour": "2026-01-03T13:00:00",
+      "events": 7608,
+      "unique_balizas": 911,
+      "unique_carreteras": 462,
+      "unique_municipios": 524
+    },
+    {
+      "hour": "2026-01-03T14:00:00",
+      "events": 17317,
+      "unique_balizas": 1094,
+      "unique_carreteras": 545,
+      "unique_municipios": 605
+    },
+    {
+      "hour": "2026-01-03T15:00:00",
+      "events": 15831,
+      "unique_balizas": 1016,
+      "unique_carreteras": 495,
+      "unique_municipios": 559
+    },
+    {
+      "hour": "2026-01-03T16:00:00",
+      "events": 17959,
+      "unique_balizas": 1116,
+      "unique_carreteras": 525,
+      "unique_municipios": 618
+    },
+    {
+      "hour": "2026-01-03T17:00:00",
+      "events": 20096,
+      "unique_balizas": 1291,
+      "unique_carreteras": 577,
+      "unique_municipios": 674
+    },
+    {
+      "hour": "2026-01-03T18:00:00",
+      "events": 20111,
+      "unique_balizas": 1260,
+      "unique_carreteras": 575,
+      "unique_municipios": 648
+    },
+    {
+      "hour": "2026-01-03T19:00:00",
+      "events": 18485,
+      "unique_balizas": 1167,
+      "unique_carreteras": 533,
+      "unique_municipios": 592
+    },
+    {
+      "hour": "2026-01-03T20:00:00",
+      "events": 15468,
+      "unique_balizas": 1018,
+      "unique_carreteras": 476,
+      "unique_municipios": 536
+    },
+    {
+      "hour": "2026-01-03T21:00:00",
+      "events": 13774,
+      "unique_balizas": 866,
+      "unique_carreteras": 407,
+      "unique_municipios": 434
+    },
+    {
+      "hour": "2026-01-03T22:00:00",
+      "events": 11270,
+      "unique_balizas": 709,
+      "unique_carreteras": 349,
+      "unique_municipios": 385
+    },
+    {
+      "hour": "2026-01-03T23:00:00",
+      "events": 8636,
+      "unique_balizas": 519,
+      "unique_carreteras": 282,
+      "unique_municipios": 298
+    },
+    {
+      "hour": "2026-01-04T00:00:00",
+      "events": 6254,
+      "unique_balizas": 383,
+      "unique_carreteras": 199,
+      "unique_municipios": 218
+    },
+    {
+      "hour": "2026-01-04T01:00:00",
+      "events": 3381,
+      "unique_balizas": 223,
+      "unique_carreteras": 126,
+      "unique_municipios": 139
+    },
+    {
+      "hour": "2026-01-04T02:00:00",
+      "events": 261,
+      "unique_balizas": 92,
+      "unique_carreteras": 61,
+      "unique_municipios": 68
+    },
+    {
+      "hour": "2026-01-04T13:00:00",
+      "events": 17584,
+      "unique_balizas": 1120,
+      "unique_carreteras": 530,
+      "unique_municipios": 598
+    },
+    {
+      "hour": "2026-01-04T14:00:00",
+      "events": 15552,
+      "unique_balizas": 986,
+      "unique_carreteras": 486,
+      "unique_municipios": 554
+    },
+    {
+      "hour": "2026-01-04T15:00:00",
+      "events": 14986,
+      "unique_balizas": 978,
+      "unique_carreteras": 487,
+      "unique_municipios": 526
+    },
+    {
+      "hour": "2026-01-04T16:00:00",
+      "events": 16506,
+      "unique_balizas": 1067,
+      "unique_carreteras": 496,
+      "unique_municipios": 579
+    },
+    {
+      "hour": "2026-01-04T17:00:00",
+      "events": 18186,
+      "unique_balizas": 1143,
+      "unique_carreteras": 531,
+      "unique_municipios": 607
+    },
+    {
+      "hour": "2026-01-04T18:00:00",
+      "events": 19173,
+      "unique_balizas": 1178,
+      "unique_carreteras": 548,
+      "unique_municipios": 622
+    },
+    {
+      "hour": "2026-01-04T19:00:00",
+      "events": 18299,
+      "unique_balizas": 1142,
+      "unique_carreteras": 512,
+      "unique_municipios": 575
+    },
+    {
+      "hour": "2026-01-04T20:00:00",
+      "events": 14245,
+      "unique_balizas": 913,
+      "unique_carreteras": 426,
+      "unique_municipios": 476
+    },
+    {
+      "hour": "2026-01-04T21:00:00",
+      "events": 11833,
+      "unique_balizas": 734,
+      "unique_carreteras": 336,
+      "unique_municipios": 383
+    },
+    {
+      "hour": "2026-01-04T22:00:00",
+      "events": 9811,
+      "unique_balizas": 635,
+      "unique_carreteras": 282,
+      "unique_municipios": 339
+    },
+    {
+      "hour": "2026-01-04T23:00:00",
+      "events": 7929,
+      "unique_balizas": 518,
+      "unique_carreteras": 242,
+      "unique_municipios": 283
+    },
+    {
+      "hour": "2026-01-05T00:00:00",
+      "events": 5773,
+      "unique_balizas": 362,
+      "unique_carreteras": 188,
+      "unique_municipios": 210
+    },
+    {
+      "hour": "2026-01-05T01:00:00",
+      "events": 774,
+      "unique_balizas": 149,
+      "unique_carreteras": 101,
+      "unique_municipios": 98
+    },
+    {
+      "hour": "2026-01-05T07:00:00",
+      "events": 909,
+      "unique_balizas": 459,
+      "unique_carreteras": 271,
+      "unique_municipios": 305
+    }
+  ],
+  "top_carreteras_by_hour": {
+    "2026-01-03T13:00:00": [
+      {
+        "carretera": "A-4",
+        "events": 179
+      },
+      {
+        "carretera": "A-7",
+        "events": 169
+      },
+      {
+        "carretera": "A-92",
+        "events": 154
+      },
+      {
+        "carretera": "A-5",
+        "events": 154
+      },
+      {
+        "carretera": "A-3",
+        "events": 115
+      }
+    ],
+    "2026-01-03T14:00:00": [
+      {
+        "carretera": "A-7",
+        "events": 711
+      },
+      {
+        "carretera": "A-5",
+        "events": 369
+      },
+      {
+        "carretera": "A-4",
+        "events": 363
+      },
+      {
+        "carretera": "AP-7",
+        "events": 327
+      },
+      {
+        "carretera": "A-1",
+        "events": 290
+      }
+    ],
+    "2026-01-03T15:00:00": [
+      {
+        "carretera": "A-7",
+        "events": 1158
+      },
+      {
+        "carretera": "AP-7",
+        "events": 462
+      },
+      {
+        "carretera": "A-4",
+        "events": 427
+      },
+      {
+        "carretera": "A-5",
+        "events": 276
+      },
+      {
+        "carretera": "A-2",
+        "events": 236
+      }
+    ],
+    "2026-01-03T16:00:00": [
+      {
+        "carretera": "A-7",
+        "events": 730
+      },
+      {
+        "carretera": "A-4",
+        "events": 309
+      },
+      {
+        "carretera": "AP-7",
+        "events": 302
+      },
+      {
+        "carretera": "A-2",
+        "events": 262
+      },
+      {
+        "carretera": "TF-5",
+        "events": 238
+      }
+    ],
+    "2026-01-03T17:00:00": [
+      {
+        "carretera": "A-7",
+        "events": 1082
+      },
+      {
+        "carretera": "GC-1",
+        "events": 293
+      },
+      {
+        "carretera": "A-4",
+        "events": 286
+      },
+      {
+        "carretera": "A-6",
+        "events": 269
+      },
+      {
+        "carretera": "AP-9",
+        "events": 243
+      }
+    ],
+    "2026-01-03T18:00:00": [
+      {
+        "carretera": "A-7",
+        "events": 1028
+      },
+      {
+        "carretera": "AP-7",
+        "events": 368
+      },
+      {
+        "carretera": "A-2",
+        "events": 306
+      },
+      {
+        "carretera": "TF-1",
+        "events": 289
+      },
+      {
+        "carretera": "GC-1",
+        "events": 247
+      }
+    ],
+    "2026-01-03T19:00:00": [
+      {
+        "carretera": "A-4",
+        "events": 649
+      },
+      {
+        "carretera": "A-7",
+        "events": 548
+      },
+      {
+        "carretera": "AP-7",
+        "events": 375
+      },
+      {
+        "carretera": "A-2",
+        "events": 323
+      },
+      {
+        "carretera": "A-92",
+        "events": 305
+      }
+    ],
+    "2026-01-03T20:00:00": [
+      {
+        "carretera": "A-7",
+        "events": 426
+      },
+      {
+        "carretera": "A-4",
+        "events": 369
+      },
+      {
+        "carretera": "A-92",
+        "events": 249
+      },
+      {
+        "carretera": "M-40",
+        "events": 246
+      },
+      {
+        "carretera": "A-2",
+        "events": 232
+      }
+    ],
+    "2026-01-03T21:00:00": [
+      {
+        "carretera": "A-7",
+        "events": 609
+      },
+      {
+        "carretera": "AP-7",
+        "events": 420
+      },
+      {
+        "carretera": "A-92",
+        "events": 363
+      },
+      {
+        "carretera": "N-332",
+        "events": 255
+      },
+      {
+        "carretera": "A-30",
+        "events": 246
+      }
+    ],
+    "2026-01-03T22:00:00": [
+      {
+        "carretera": "A-7",
+        "events": 471
+      },
+      {
+        "carretera": "AP-7",
+        "events": 317
+      },
+      {
+        "carretera": "A-4",
+        "events": 249
+      },
+      {
+        "carretera": "N-332",
+        "events": 225
+      },
+      {
+        "carretera": "A-67",
+        "events": 209
+      }
+    ],
+    "2026-01-03T23:00:00": [
+      {
+        "carretera": "A-4",
+        "events": 250
+      },
+      {
+        "carretera": "A-7",
+        "events": 232
+      },
+      {
+        "carretera": "A-6",
+        "events": 224
+      },
+      {
+        "carretera": "A-8",
+        "events": 207
+      },
+      {
+        "carretera": "A-42",
+        "events": 185
+      }
+    ],
+    "2026-01-04T00:00:00": [
+      {
+        "carretera": "A-7",
+        "events": 314
+      },
+      {
+        "carretera": "A-42",
+        "events": 157
+      },
+      {
+        "carretera": "A-2",
+        "events": 144
+      },
+      {
+        "carretera": "M-40",
+        "events": 139
+      },
+      {
+        "carretera": "AP-7",
+        "events": 126
+      }
+    ],
+    "2026-01-04T01:00:00": [
+      {
+        "carretera": "A-7",
+        "events": 214
+      },
+      {
+        "carretera": "A-4",
+        "events": 160
+      },
+      {
+        "carretera": "A-6",
+        "events": 94
+      },
+      {
+        "carretera": "A-92",
+        "events": 82
+      },
+      {
+        "carretera": "A-2",
+        "events": 81
+      }
+    ],
+    "2026-01-04T02:00:00": [
+      {
+        "carretera": "A-4",
+        "events": 18
+      },
+      {
+        "carretera": "TO-3927",
+        "events": 12
+      },
+      {
+        "carretera": "A-7",
+        "events": 12
+      },
+      {
+        "carretera": "A-6",
+        "events": 10
+      },
+      {
+        "carretera": "A-2",
+        "events": 9
+      }
+    ],
+    "2026-01-04T13:00:00": [
+      {
+        "carretera": "A-7",
+        "events": 593
+      },
+      {
+        "carretera": "A-1",
+        "events": 428
+      },
+      {
+        "carretera": "A-4",
+        "events": 425
+      },
+      {
+        "carretera": "A-5",
+        "events": 304
+      },
+      {
+        "carretera": "A-66",
+        "events": 269
+      }
+    ],
+    "2026-01-04T14:00:00": [
+      {
+        "carretera": "A-7",
+        "events": 684
+      },
+      {
+        "carretera": "A-1",
+        "events": 377
+      },
+      {
+        "carretera": "A-44",
+        "events": 354
+      },
+      {
+        "carretera": "A-2",
+        "events": 292
+      },
+      {
+        "carretera": "A-4",
+        "events": 276
+      }
+    ],
+    "2026-01-04T15:00:00": [
+      {
+        "carretera": "A-7",
+        "events": 502
+      },
+      {
+        "carretera": "A-4",
+        "events": 356
+      },
+      {
+        "carretera": "A-5",
+        "events": 296
+      },
+      {
+        "carretera": "N-340a",
+        "events": 172
+      },
+      {
+        "carretera": "SE-30",
+        "events": 164
+      }
+    ],
+    "2026-01-04T16:00:00": [
+      {
+        "carretera": "A-7",
+        "events": 505
+      },
+      {
+        "carretera": "A-92",
+        "events": 409
+      },
+      {
+        "carretera": "A-4",
+        "events": 402
+      },
+      {
+        "carretera": "A-49",
+        "events": 292
+      },
+      {
+        "carretera": "A-2",
+        "events": 241
+      }
+    ],
+    "2026-01-04T17:00:00": [
+      {
+        "carretera": "A-7",
+        "events": 681
+      },
+      {
+        "carretera": "A-4",
+        "events": 404
+      },
+      {
+        "carretera": "A-6",
+        "events": 325
+      },
+      {
+        "carretera": "A-92",
+        "events": 248
+      },
+      {
+        "carretera": "N-340",
+        "events": 234
+      }
+    ],
+    "2026-01-04T18:00:00": [
+      {
+        "carretera": "A-7",
+        "events": 494
+      },
+      {
+        "carretera": "A-92",
+        "events": 313
+      },
+      {
+        "carretera": "A-5",
+        "events": 307
+      },
+      {
+        "carretera": "A-4",
+        "events": 304
+      },
+      {
+        "carretera": "A-6",
+        "events": 285
+      }
+    ],
+    "2026-01-04T19:00:00": [
+      {
+        "carretera": "A-7",
+        "events": 392
+      },
+      {
+        "carretera": "A-92",
+        "events": 327
+      },
+      {
+        "carretera": "A-5",
+        "events": 311
+      },
+      {
+        "carretera": "A-6",
+        "events": 283
+      },
+      {
+        "carretera": "A-4",
+        "events": 271
+      }
+    ],
+    "2026-01-04T20:00:00": [
+      {
+        "carretera": "A-6",
+        "events": 586
+      },
+      {
+        "carretera": "A-7",
+        "events": 434
+      },
+      {
+        "carretera": "A-2",
+        "events": 328
+      },
+      {
+        "carretera": "A-4",
+        "events": 286
+      },
+      {
+        "carretera": "A-5",
+        "events": 284
+      }
+    ],
+    "2026-01-04T21:00:00": [
+      {
+        "carretera": "A-4",
+        "events": 371
+      },
+      {
+        "carretera": "A-6",
+        "events": 334
+      },
+      {
+        "carretera": "A-7",
+        "events": 274
+      },
+      {
+        "carretera": "A-49",
+        "events": 261
+      },
+      {
+        "carretera": "A-66",
+        "events": 250
+      }
+    ],
+    "2026-01-04T22:00:00": [
+      {
+        "carretera": "A-4",
+        "events": 481
+      },
+      {
+        "carretera": "A-7",
+        "events": 356
+      },
+      {
+        "carretera": "A-5",
+        "events": 287
+      },
+      {
+        "carretera": "A-6",
+        "events": 241
+      },
+      {
+        "carretera": "A-67",
+        "events": 203
+      }
+    ],
+    "2026-01-04T23:00:00": [
+      {
+        "carretera": "TF-1",
+        "events": 316
+      },
+      {
+        "carretera": "A-4",
+        "events": 245
+      },
+      {
+        "carretera": "A-6",
+        "events": 192
+      },
+      {
+        "carretera": "A-66",
+        "events": 183
+      },
+      {
+        "carretera": "A-5",
+        "events": 153
+      }
+    ],
+    "2026-01-05T00:00:00": [
+      {
+        "carretera": "A-4",
+        "events": 216
+      },
+      {
+        "carretera": "A-6",
+        "events": 194
+      },
+      {
+        "carretera": "A-42",
+        "events": 187
+      },
+      {
+        "carretera": "AP-1",
+        "events": 154
+      },
+      {
+        "carretera": "N-322",
+        "events": 144
+      }
+    ],
+    "2026-01-05T01:00:00": [
+      {
+        "carretera": "A-4",
+        "events": 29
+      },
+      {
+        "carretera": "N-340",
+        "events": 28
+      },
+      {
+        "carretera": "N-322",
+        "events": 25
+      },
+      {
+        "carretera": "TF-1",
+        "events": 23
+      },
+      {
+        "carretera": "EI-600",
+        "events": 23
+      }
+    ],
+    "2026-01-05T07:00:00": [
+      {
+        "carretera": "A-7",
+        "events": 32
+      },
+      {
+        "carretera": "A-3",
+        "events": 22
+      },
+      {
+        "carretera": "A-92",
+        "events": 18
+      },
+      {
+        "carretera": "N-332",
+        "events": 14
+      },
+      {
+        "carretera": "M-40",
+        "events": 12
+      }
+    ]
+  }
+}

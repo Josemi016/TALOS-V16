@@ -1,0 +1,8 @@
+{
+  "generated_at": "2026-01-05T08:52:28.276197",
+  "total_events": 348011,
+  "unique_balizas": 13956,
+  "first_seen": "2026-01-03T13:26:40.796000",
+  "last_seen": "2026-01-05T07:51:02.497000",
+  "parquet_source": "D:\\talosv16-mvp\\data\\lake\\bronze\\v16"
+}
