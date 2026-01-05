@@ -6,7 +6,7 @@
 
 ## ¿De qué va esto?
 
-TALOS es un panel de visualización que muestra en tiempo real (o casi) la actividad de las balizas V16 en España. Esas luces naranjas que los conductores colocan en la carretera cuando tienen una avería o un accidente.
+TALOS es un panel de visualización que muestra la actividad de las balizas V16 en España. Esas luces naranjas que los conductores colocan en la carretera cuando tienen una avería o un accidente.
 
 Lo que mucha gente no sabe es que estas balizas no solo emiten luz. También transmiten datos: coordenadas GPS, identificador único, carretera, municipio, orientación... Todo esto viaja por redes públicas y queda registrado.
 
@@ -64,7 +64,7 @@ El código fuente está disponible para que cualquiera pueda auditarlo, mejorarl
 
 **Jose Miguel Martínez**
 
-Si tienes preguntas, sugerencias o simplemente quieres hablar sobre privacidad y datos de movilidad, no dudes en abrir un issue o contactarme.
+Si tienes preguntas, sugerencias o simplemente quieres hablar sobre privacidad y datos de movilidad, no dudes en contactarme.
 
 ---
 
