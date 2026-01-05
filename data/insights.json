@@ -1,0 +1,68 @@
+{
+  "generated_at": "2026-01-05T08:52:39.069023",
+  "period": "7d",
+  "total_insights": 5,
+  "insights": [
+    {
+      "id": "top_carretera",
+      "severity": "info",
+      "title": "La A-7 concentra el 3.7% de eventos",
+      "subtitle": "12,875 de 348,011 eventos en los últimos 7 días",
+      "metric_values": {
+        "carretera": "A-7",
+        "events": 12875,
+        "pct": 3.7
+      },
+      "link": "/carreteras"
+    },
+    {
+      "id": "top3_concentration",
+      "severity": "info",
+      "title": "Top 3 carreteras concentran el 7.5% del tráfico",
+      "subtitle": "Concentración de eventos en las principales vías",
+      "metric_values": {
+        "pct": 7.5
+      },
+      "link": "/carreteras"
+    },
+    {
+      "id": "top_baliza",
+      "severity": "info",
+      "title": "Baliza 19401690 lidera con 60 eventos",
+      "subtitle": "Presente en 3 horas distintas",
+      "metric_values": {
+        "baliza_id": "19401690",
+        "events": 60,
+        "hours": 3
+      },
+      "link": "/balizas?id=19401690"
+    },
+    {
+      "id": "data_gaps",
+      "severity": "critical",
+      "title": "⚠️ 5 horas sin datos detectadas",
+      "subtitle": "En las últimas 24 horas",
+      "metric_values": {
+        "gaps": 5
+      },
+      "link": "/health"
+    },
+    {
+      "id": "rare_carreteras",
+      "severity": "info",
+      "title": "5 carreteras con actividad mínima",
+      "subtitle": "Incluye: CR-1341, VA-104, A-4002R1",
+      "metric_values": {
+        "count": 5,
+        "carreteras": [
+          "CR-1341",
+          "VA-104",
+          "A-4002R1",
+          "CM-5001",
+          "M-862"
+        ]
+      },
+      "link": "/carreteras"
+    }
+  ]
+}

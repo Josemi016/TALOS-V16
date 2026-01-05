@@ -1,0 +1,917 @@
+{
+  "period": "24h",
+  "total_anomalies": 50,
+  "by_type": {
+    "geo_jump": 0,
+    "burst": 0,
+    "replay": 50,
+    "invalid_coords": 0
+  },
+  "by_severity": {
+    "critical": 0,
+    "warning": 50,
+    "info": 0
+  },
+  "anomalies": [
+    {
+      "type": "replay",
+      "severity": "warning",
+      "entity": "19410332",
+      "entity_type": "baliza",
+      "timestamp": "2026-01-04T13:29:21.310000",
+      "evidence": {
+        "repetitions": 58,
+        "lat": 41.86617,
+        "lon": -0.78753,
+        "distinct_hours": 3,
+        "first_seen": "2026-01-04T13:29:21.310000",
+        "last_seen": "2026-01-04T15:04:28.243000"
+      },
+      "carretera": "N-330",
+      "municipio": "Zuera",
+      "description": "Baliza activa 3 horas"
+    },
+    {
+      "type": "replay",
+      "severity": "warning",
+      "entity": "19410354",
+      "entity_type": "baliza",
+      "timestamp": "2026-01-04T13:29:21.310000",
+      "evidence": {
+        "repetitions": 58,
+        "lat": 40.36172,
+        "lon": -3.68188,
+        "distinct_hours": 3,
+        "first_seen": "2026-01-04T13:29:21.310000",
+        "last_seen": "2026-01-04T15:04:28.243000"
+      },
+      "carretera": "M-40",
+      "municipio": "Madrid",
+      "description": "Baliza activa 3 horas"
+    },
+    {
+      "type": "replay",
+      "severity": "warning",
+      "entity": "19410356",
+      "entity_type": "baliza",
+      "timestamp": "2026-01-04T13:29:21.310000",
+      "evidence": {
+        "repetitions": 58,
+        "lat": 36.60306,
+        "lon": -4.62227,
+        "distinct_hours": 3,
+        "first_seen": "2026-01-04T13:29:21.310000",
+        "last_seen": "2026-01-04T15:04:28.243000"
+      },
+      "carretera": "A-368",
+      "municipio": "Mijas",
+      "description": "Baliza activa 3 horas"
+    },
+    {
+      "type": "replay",
+      "severity": "warning",
+      "entity": "19410307",
+      "entity_type": "baliza",
+      "timestamp": "2026-01-04T13:29:21.310000",
+      "evidence": {
+        "repetitions": 58,
+        "lat": 28.43102,
+        "lon": -16.48566,
+        "distinct_hours": 3,
+        "first_seen": "2026-01-04T13:29:21.310000",
+        "last_seen": "2026-01-04T15:04:28.243000"
+      },
+      "carretera": "TF-5",
+      "municipio": "Santa Úrsula",
+      "description": "Baliza activa 3 horas"
+    },
+    {
+      "type": "replay",
+      "severity": "warning",
+      "entity": "19410535",
+      "entity_type": "baliza",
+      "timestamp": "2026-01-04T13:37:41.906000",
+      "evidence": {
+        "repetitions": 58,
+        "lat": 41.41681,
+        "lon": 2.00446,
+        "distinct_hours": 3,
+        "first_seen": "2026-01-04T13:37:41.906000",
+        "last_seen": "2026-01-04T15:12:48.812000"
+      },
+      "carretera": "A-2",
+      "municipio": "Pallejà",
+      "description": "Baliza activa 3 horas"
+    },
+    {
+      "type": "replay",
+      "severity": "warning",
+      "entity": "19410946",
+      "entity_type": "baliza",
+      "timestamp": "2026-01-04T13:57:43.350000",
+      "evidence": {
+        "repetitions": 59,
+        "lat": 40.08441,
+        "lon": -3.86792,
+        "distinct_hours": 3,
+        "first_seen": "2026-01-04T13:57:43.350000",
+        "last_seen": "2026-01-04T15:34:30.419000"
+      },
+      "carretera": "CM-4004",
+      "municipio": "Yuncos",
+      "description": "Baliza activa 3 horas"
+    },
+    {
+      "type": "replay",
+      "severity": "warning",
+      "entity": "19411580",
+      "entity_type": "baliza",
+      "timestamp": "2026-01-04T14:29:25.771000",
+      "evidence": {
+        "repetitions": 58,
+        "lat": 37.70783,
+        "lon": -1.70783,
+        "distinct_hours": 3,
+        "first_seen": "2026-01-04T14:29:25.771000",
+        "last_seen": "2026-01-04T16:04:32.547000"
+      },
+      "carretera": "RM-711",
+      "municipio": "Lorca",
+      "description": "Baliza activa 3 horas"
+    },
+    {
+      "type": "replay",
+      "severity": "warning",
+      "entity": "19412706",
+      "entity_type": "baliza",
+      "timestamp": "2026-01-04T15:26:09.791000",
+      "evidence": {
+        "repetitions": 60,
+        "lat": 42.35473,
+        "lon": -5.74609,
+        "distinct_hours": 3,
+        "first_seen": "2026-01-04T15:26:09.791000",
+        "last_seen": "2026-01-04T17:04:38.953000"
+      },
+      "carretera": "CL-621",
+      "municipio": "Santa María del Páramo",
+      "description": "Baliza activa 3 horas"
+    },
+    {
+      "type": "replay",
+      "severity": "warning",
+      "entity": "19412775",
+      "entity_type": "baliza",
+      "timestamp": "2026-01-04T15:29:30.024000",
+      "evidence": {
+        "repetitions": 58,
+        "lat": 42.26101,
+        "lon": -8.67144,
+        "distinct_hours": 3,
+        "first_seen": "2026-01-04T15:29:30.024000",
+        "last_seen": "2026-01-04T17:04:38.953000"
+      },
+      "carretera": "N-552",
+      "municipio": "Redondela",
+      "description": "Baliza activa 3 horas"
+    },
+    {
+      "type": "replay",
+      "severity": "warning",
+      "entity": "19412762",
+      "entity_type": "baliza",
+      "timestamp": "2026-01-04T15:29:30.024000",
+      "evidence": {
+        "repetitions": 58,
+        "lat": 40.02191,
+        "lon": -0.02907,
+        "distinct_hours": 3,
+        "first_seen": "2026-01-04T15:29:30.024000",
+        "last_seen": "2026-01-04T17:04:38.953000"
+      },
+      "carretera": "N-340a",
+      "municipio": "Castelló de la Plana",
+      "description": "Baliza activa 3 horas"
+    },
+    {
+      "type": "replay",
+      "severity": "warning",
+      "entity": "19413091",
+      "entity_type": "baliza",
+      "timestamp": "2026-01-04T15:46:11.256000",
+      "evidence": {
+        "repetitions": 60,
+        "lat": 41.82508,
+        "lon": 1.88815,
+        "distinct_hours": 3,
+        "first_seen": "2026-01-04T15:46:11.256000",
+        "last_seen": "2026-01-04T17:24:40.472000"
+      },
+      "carretera": "C-16",
+      "municipio": "Sallent",
+      "description": "Baliza activa 3 horas"
+    },
+    {
+      "type": "replay",
+      "severity": "warning",
+      "entity": "19413115",
+      "entity_type": "baliza",
+      "timestamp": "2026-01-04T15:47:51.391000",
+      "evidence": {
+        "repetitions": 59,
+        "lat": 38.79345,
+        "lon": -3.2411,
+        "distinct_hours": 3,
+        "first_seen": "2026-01-04T15:47:51.391000",
+        "last_seen": "2026-01-04T17:24:40.472000"
+      },
+      "carretera": "CR-644",
+      "municipio": "Alhambra",
+      "description": "Baliza activa 3 horas"
+    },
+    {
+      "type": "replay",
+      "severity": "warning",
+      "entity": "19413354",
+      "entity_type": "baliza",
+      "timestamp": "2026-01-04T15:59:32.205000",
+      "evidence": {
+        "repetitions": 58,
+        "lat": 40.43016,
+        "lon": -3.39128,
+        "distinct_hours": 3,
+        "first_seen": "2026-01-04T15:59:32.205000",
+        "last_seen": "2026-01-04T17:34:41.250000"
+      },
+      "carretera": "M-224",
+      "municipio": "Torres de la Alameda",
+      "description": "Baliza activa 3 horas"
+    },
+    {
+      "type": "replay",
+      "severity": "warning",
+      "entity": "19413339",
+      "entity_type": "baliza",
+      "timestamp": "2026-01-04T15:59:32.205000",
+      "evidence": {
+        "repetitions": 58,
+        "lat": 40.62502,
+        "lon": -3.99178,
+        "distinct_hours": 3,
+        "first_seen": "2026-01-04T15:59:32.205000",
+        "last_seen": "2026-01-04T17:34:41.250000"
+      },
+      "carretera": "A-6",
+      "municipio": "Collado Villalba",
+      "description": "Baliza activa 3 horas"
+    },
+    {
+      "type": "replay",
+      "severity": "warning",
+      "entity": "19413370",
+      "entity_type": "baliza",
+      "timestamp": "2026-01-04T15:59:32.205000",
+      "evidence": {
+        "repetitions": 58,
+        "lat": 38.4852,
+        "lon": -1.38586,
+        "distinct_hours": 3,
+        "first_seen": "2026-01-04T15:59:32.205000",
+        "last_seen": "2026-01-04T17:34:41.250000"
+      },
+      "carretera": "RM-428",
+      "municipio": "Jumilla",
+      "description": "Baliza activa 3 horas"
+    },
+    {
+      "type": "replay",
+      "severity": "warning",
+      "entity": "19414549",
+      "entity_type": "baliza",
+      "timestamp": "2026-01-04T16:47:57.686000",
+      "evidence": {
+        "repetitions": 58,
+        "lat": 41.47337,
+        "lon": -1.37411,
+        "distinct_hours": 3,
+        "first_seen": "2026-01-04T16:47:57.686000",
+        "last_seen": "2026-01-04T18:23:08.853000"
+      },
+      "carretera": "ZP-4203",
+      "municipio": "La Almunia de Doña Godina",
+      "description": "Baliza activa 3 horas"
+    },
+    {
+      "type": "replay",
+      "severity": "warning",
+      "entity": "19415648",
+      "entity_type": "baliza",
+      "timestamp": "2026-01-04T17:38:01.841000",
+      "evidence": {
+        "repetitions": 59,
+        "lat": 40.31657,
+        "lon": -3.74432,
+        "distinct_hours": 3,
+        "first_seen": "2026-01-04T17:38:01.841000",
+        "last_seen": "2026-01-04T19:14:52.775000"
+      },
+      "carretera": "M-406",
+      "municipio": "Getafe",
+      "description": "Baliza activa 3 horas"
+    },
+    {
+      "type": "replay",
+      "severity": "warning",
+      "entity": "19415627",
+      "entity_type": "baliza",
+      "timestamp": "2026-01-04T17:38:01.841000",
+      "evidence": {
+        "repetitions": 59,
+        "lat": 40.00788,
+        "lon": -4.26183,
+        "distinct_hours": 3,
+        "first_seen": "2026-01-04T17:38:01.841000",
+        "last_seen": "2026-01-04T19:14:52.775000"
+      },
+      "carretera": "TO-3927",
+      "municipio": "Novés",
+      "description": "Baliza activa 3 horas"
+    },
+    {
+      "type": "replay",
+      "severity": "warning",
+      "entity": "19415703",
+      "entity_type": "baliza",
+      "timestamp": "2026-01-04T17:39:42.283000",
+      "evidence": {
+        "repetitions": 58,
+        "lat": 42.05343,
+        "lon": 2.54483,
+        "distinct_hours": 3,
+        "first_seen": "2026-01-04T17:39:42.283000",
+        "last_seen": "2026-01-04T19:14:52.775000"
+      },
+      "carretera": "C-63",
+      "municipio": "Les Planes d'Hostoles",
+      "description": "Baliza activa 3 horas"
+    },
+    {
+      "type": "replay",
+      "severity": "warning",
+      "entity": "19415661",
+      "entity_type": "baliza",
+      "timestamp": "2026-01-04T17:39:42.283000",
+      "evidence": {
+        "repetitions": 58,
+        "lat": 42.01087,
+        "lon": -1.66148,
+        "distinct_hours": 3,
+        "first_seen": "2026-01-04T17:39:42.283000",
+        "last_seen": "2026-01-04T19:14:52.775000"
+      },
+      "carretera": "N-121C",
+      "municipio": "Cascante",
+      "description": "Baliza activa 3 horas"
+    },
+    {
+      "type": "replay",
+      "severity": "warning",
+      "entity": "19415695",
+      "entity_type": "baliza",
+      "timestamp": "2026-01-04T17:39:42.283000",
+      "evidence": {
+        "repetitions": 58,
+        "lat": 36.27196,
+        "lon": -5.96498,
+        "distinct_hours": 3,
+        "first_seen": "2026-01-04T17:39:42.283000",
+        "last_seen": "2026-01-04T19:14:52.775000"
+      },
+      "carretera": "A-396",
+      "municipio": "Vejer de la Frontera",
+      "description": "Baliza activa 3 horas"
+    },
+    {
+      "type": "replay",
+      "severity": "warning",
+      "entity": "19415874",
+      "entity_type": "baliza",
+      "timestamp": "2026-01-04T17:49:44.899000",
+      "evidence": {
+        "repetitions": 58,
+        "lat": 37.91982,
+        "lon": -1.16191,
+        "distinct_hours": 3,
+        "first_seen": "2026-01-04T17:49:44.899000",
+        "last_seen": "2026-01-04T19:24:53.536000"
+      },
+      "carretera": "MU-33",
+      "municipio": "Murcia",
+      "description": "Baliza activa 3 horas"
+    },
+    {
+      "type": "replay",
+      "severity": "warning",
+      "entity": "19416055",
+      "entity_type": "baliza",
+      "timestamp": "2026-01-04T17:58:06.961000",
+      "evidence": {
+        "repetitions": 59,
+        "lat": 37.23413,
+        "lon": -5.08366,
+        "distinct_hours": 3,
+        "first_seen": "2026-01-04T17:58:06.961000",
+        "last_seen": "2026-01-04T19:34:54.345000"
+      },
+      "carretera": "A-92",
+      "municipio": "Osuna",
+      "description": "Baliza activa 3 horas"
+    },
+    {
+      "type": "replay",
+      "severity": "warning",
+      "entity": "19416056",
+      "entity_type": "baliza",
+      "timestamp": "2026-01-04T17:58:06.961000",
+      "evidence": {
+        "repetitions": 59,
+        "lat": 36.72963,
+        "lon": -4.12357,
+        "distinct_hours": 3,
+        "first_seen": "2026-01-04T17:58:06.961000",
+        "last_seen": "2026-01-04T19:34:54.345000"
+      },
+      "carretera": "N-340a",
+      "municipio": "Vélez-Málaga",
+      "description": "Baliza activa 3 horas"
+    },
+    {
+      "type": "replay",
+      "severity": "warning",
+      "entity": "19416057",
+      "entity_type": "baliza",
+      "timestamp": "2026-01-04T17:58:06.961000",
+      "evidence": {
+        "repetitions": 58,
+        "lat": 41.17691,
+        "lon": 1.47667,
+        "distinct_hours": 3,
+        "first_seen": "2026-01-04T17:58:06.961000",
+        "last_seen": "2026-01-04T19:33:14.216000"
+      },
+      "carretera": "N-340",
+      "municipio": "Roda de Berà",
+      "description": "Baliza activa 3 horas"
+    },
+    {
+      "type": "replay",
+      "severity": "warning",
+      "entity": "19416750",
+      "entity_type": "baliza",
+      "timestamp": "2026-01-04T18:28:09.225000",
+      "evidence": {
+        "repetitions": 59,
+        "lat": 36.99872,
+        "lon": -5.59331,
+        "distinct_hours": 3,
+        "first_seen": "2026-01-04T18:28:09.225000",
+        "last_seen": "2026-01-04T20:04:56.626000"
+      },
+      "carretera": "A-375",
+      "municipio": "Montellano",
+      "description": "Baliza activa 3 horas"
+    },
+    {
+      "type": "replay",
+      "severity": "warning",
+      "entity": "19416990",
+      "entity_type": "baliza",
+      "timestamp": "2026-01-04T18:38:09.978000",
+      "evidence": {
+        "repetitions": 59,
+        "lat": 38.33582,
+        "lon": -0.50245,
+        "distinct_hours": 3,
+        "first_seen": "2026-01-04T18:38:09.978000",
+        "last_seen": "2026-01-04T20:14:57.371000"
+      },
+      "carretera": "N-332",
+      "municipio": "Alacant/Alicante",
+      "description": "Baliza activa 3 horas"
+    },
+    {
+      "type": "replay",
+      "severity": "warning",
+      "entity": "19417192",
+      "entity_type": "baliza",
+      "timestamp": "2026-01-04T18:48:10.749000",
+      "evidence": {
+        "repetitions": 59,
+        "lat": 43.50994,
+        "lon": -5.69081,
+        "distinct_hours": 3,
+        "first_seen": "2026-01-04T18:48:10.749000",
+        "last_seen": "2026-01-04T20:24:58.101000"
+      },
+      "carretera": "AS-II",
+      "municipio": "Gijón",
+      "description": "Baliza activa 3 horas"
+    },
+    {
+      "type": "replay",
+      "severity": "warning",
+      "entity": "19417185",
+      "entity_type": "baliza",
+      "timestamp": "2026-01-04T18:48:10.749000",
+      "evidence": {
+        "repetitions": 59,
+        "lat": 37.17234,
+        "lon": -6.85301,
+        "distinct_hours": 3,
+        "first_seen": "2026-01-04T18:48:10.749000",
+        "last_seen": "2026-01-04T20:24:58.101000"
+      },
+      "carretera": "A-494",
+      "municipio": "Moguer",
+      "description": "Baliza activa 3 horas"
+    },
+    {
+      "type": "replay",
+      "severity": "warning",
+      "entity": "19418372",
+      "entity_type": "baliza",
+      "timestamp": "2026-01-04T19:46:35.240000",
+      "evidence": {
+        "repetitions": 60,
+        "lat": 39.91925,
+        "lon": -0.56459,
+        "distinct_hours": 3,
+        "first_seen": "2026-01-04T19:46:35.240000",
+        "last_seen": "2026-01-04T21:25:02.185000"
+      },
+      "carretera": "A-23",
+      "municipio": "Jérica",
+      "description": "Baliza activa 3 horas"
+    },
+    {
+      "type": "replay",
+      "severity": "warning",
+      "entity": "19418401",
+      "entity_type": "baliza",
+      "timestamp": "2026-01-04T19:49:55.502000",
+      "evidence": {
+        "repetitions": 58,
+        "lat": 40.35841,
+        "lon": -3.81798,
+        "distinct_hours": 3,
+        "first_seen": "2026-01-04T19:49:55.502000",
+        "last_seen": "2026-01-04T21:25:02.185000"
+      },
+      "carretera": "A-5",
+      "municipio": "Alcorcón",
+      "description": "Baliza activa 3 horas"
+    },
+    {
+      "type": "replay",
+      "severity": "warning",
+      "entity": "19419035",
+      "entity_type": "baliza",
+      "timestamp": "2026-01-04T20:28:18.335000",
+      "evidence": {
+        "repetitions": 59,
+        "lat": 41.00965,
+        "lon": -4.075,
+        "distinct_hours": 3,
+        "first_seen": "2026-01-04T20:28:18.335000",
+        "last_seen": "2026-01-04T22:05:04.773000"
+      },
+      "carretera": "SG-V-2221",
+      "municipio": "Espirdo",
+      "description": "Baliza activa 3 horas"
+    },
+    {
+      "type": "replay",
+      "severity": "warning",
+      "entity": "19419047",
+      "entity_type": "baliza",
+      "timestamp": "2026-01-04T20:28:18.335000",
+      "evidence": {
+        "repetitions": 59,
+        "lat": 43.25348,
+        "lon": -5.77279,
+        "distinct_hours": 3,
+        "first_seen": "2026-01-04T20:28:18.335000",
+        "last_seen": "2026-01-04T22:05:04.773000"
+      },
+      "carretera": "AS-375",
+      "municipio": "Mieres",
+      "description": "Baliza activa 3 horas"
+    },
+    {
+      "type": "replay",
+      "severity": "warning",
+      "entity": "19419028",
+      "entity_type": "baliza",
+      "timestamp": "2026-01-04T20:28:18.335000",
+      "evidence": {
+        "repetitions": 59,
+        "lat": 43.34894,
+        "lon": -8.20723,
+        "distinct_hours": 3,
+        "first_seen": "2026-01-04T20:28:18.335000",
+        "last_seen": "2026-01-04T22:05:04.772000"
+      },
+      "carretera": "AC-154",
+      "municipio": "Miño",
+      "description": "Baliza activa 3 horas"
+    },
+    {
+      "type": "replay",
+      "severity": "warning",
+      "entity": "19419060",
+      "entity_type": "baliza",
+      "timestamp": "2026-01-04T20:28:18.335000",
+      "evidence": {
+        "repetitions": 59,
+        "lat": 41.86074,
+        "lon": -5.41778,
+        "distinct_hours": 3,
+        "first_seen": "2026-01-04T20:28:18.335000",
+        "last_seen": "2026-01-04T22:05:04.773000"
+      },
+      "carretera": "CL-612",
+      "municipio": "Villalpando",
+      "description": "Baliza activa 3 horas"
+    },
+    {
+      "type": "replay",
+      "severity": "warning",
+      "entity": "19419165",
+      "entity_type": "baliza",
+      "timestamp": "2026-01-04T20:38:19.090000",
+      "evidence": {
+        "repetitions": 59,
+        "lat": 42.35353,
+        "lon": -3.69114,
+        "distinct_hours": 3,
+        "first_seen": "2026-01-04T20:38:19.090000",
+        "last_seen": "2026-01-04T22:15:05.374000"
+      },
+      "carretera": "N-623",
+      "municipio": "Burgos",
+      "description": "Baliza activa 3 horas"
+    },
+    {
+      "type": "replay",
+      "severity": "warning",
+      "entity": "19419319",
+      "entity_type": "baliza",
+      "timestamp": "2026-01-04T20:48:19.812000",
+      "evidence": {
+        "repetitions": 59,
+        "lat": 42.62837,
+        "lon": -7.68636,
+        "distinct_hours": 3,
+        "first_seen": "2026-01-04T20:48:19.812000",
+        "last_seen": "2026-01-04T22:25:05.960000"
+      },
+      "carretera": "LU-P-5811",
+      "municipio": "O Saviñao",
+      "description": "Baliza activa 3 horas"
+    },
+    {
+      "type": "replay",
+      "severity": "warning",
+      "entity": "19419448",
+      "entity_type": "baliza",
+      "timestamp": "2026-01-04T20:58:20.460000",
+      "evidence": {
+        "repetitions": 59,
+        "lat": 43.27982,
+        "lon": -4.08177,
+        "distinct_hours": 3,
+        "first_seen": "2026-01-04T20:58:20.460000",
+        "last_seen": "2026-01-04T22:35:06.544000"
+      },
+      "carretera": "A-67",
+      "municipio": "Los Corrales de Buelna",
+      "description": "Baliza activa 3 horas"
+    },
+    {
+      "type": "replay",
+      "severity": "warning",
+      "entity": "19419945",
+      "entity_type": "baliza",
+      "timestamp": "2026-01-04T21:38:23.014000",
+      "evidence": {
+        "repetitions": 59,
+        "lat": 43.137,
+        "lon": -7.49147,
+        "distinct_hours": 3,
+        "first_seen": "2026-01-04T21:38:23.014000",
+        "last_seen": "2026-01-04T23:15:08.953000"
+      },
+      "carretera": "LU-113",
+      "municipio": "Castro de Rei",
+      "description": "Baliza activa 3 horas"
+    },
+    {
+      "type": "replay",
+      "severity": "warning",
+      "entity": "19419921",
+      "entity_type": "baliza",
+      "timestamp": "2026-01-04T21:38:23.014000",
+      "evidence": {
+        "repetitions": 59,
+        "lat": 36.92558,
+        "lon": -2.20989,
+        "distinct_hours": 3,
+        "first_seen": "2026-01-04T21:38:23.014000",
+        "last_seen": "2026-01-04T23:15:08.953000"
+      },
+      "carretera": "A-7",
+      "municipio": "Níjar",
+      "description": "Baliza activa 3 horas"
+    },
+    {
+      "type": "replay",
+      "severity": "warning",
+      "entity": "19420443",
+      "entity_type": "baliza",
+      "timestamp": "2026-01-04T22:28:26.165000",
+      "evidence": {
+        "repetitions": 58,
+        "lat": 43.45893,
+        "lon": -5.7957,
+        "distinct_hours": 3,
+        "first_seen": "2026-01-04T22:28:26.165000",
+        "last_seen": "2026-01-05T00:03:31.639000"
+      },
+      "carretera": "A-66",
+      "municipio": "Llanera",
+      "description": "Baliza activa 3 horas"
+    },
+    {
+      "type": "replay",
+      "severity": "warning",
+      "entity": "19420539",
+      "entity_type": "baliza",
+      "timestamp": "2026-01-04T22:38:26.741000",
+      "evidence": {
+        "repetitions": 58,
+        "lat": 37.64722,
+        "lon": -5.52244,
+        "distinct_hours": 3,
+        "first_seen": "2026-01-04T22:38:26.741000",
+        "last_seen": "2026-01-05T00:13:32.193000"
+      },
+      "carretera": "A-457",
+      "municipio": "Lora del Río",
+      "description": "Baliza activa 3 horas"
+    },
+    {
+      "type": "replay",
+      "severity": "warning",
+      "entity": "19420546",
+      "entity_type": "baliza",
+      "timestamp": "2026-01-04T22:38:26.741000",
+      "evidence": {
+        "repetitions": 58,
+        "lat": 43.30103,
+        "lon": -8.37158,
+        "distinct_hours": 3,
+        "first_seen": "2026-01-04T22:38:26.741000",
+        "last_seen": "2026-01-05T00:13:32.193000"
+      },
+      "carretera": "N-550",
+      "municipio": "Culleredo",
+      "description": "Baliza activa 3 horas"
+    },
+    {
+      "type": "replay",
+      "severity": "warning",
+      "entity": "19420661",
+      "entity_type": "baliza",
+      "timestamp": "2026-01-04T22:48:27.343000",
+      "evidence": {
+        "repetitions": 59,
+        "lat": 37.23735,
+        "lon": -5.07323,
+        "distinct_hours": 3,
+        "first_seen": "2026-01-04T22:48:27.343000",
+        "last_seen": "2026-01-05T00:25:12.825000"
+      },
+      "carretera": "A-92",
+      "municipio": "Osuna",
+      "description": "Baliza activa 3 horas"
+    },
+    {
+      "type": "replay",
+      "severity": "warning",
+      "entity": "19420640",
+      "entity_type": "baliza",
+      "timestamp": "2026-01-04T22:48:27.343000",
+      "evidence": {
+        "repetitions": 59,
+        "lat": 37.52787,
+        "lon": -5.97776,
+        "distinct_hours": 3,
+        "first_seen": "2026-01-04T22:48:27.343000",
+        "last_seen": "2026-01-05T00:25:12.825000"
+      },
+      "carretera": "A-8013",
+      "municipio": "Alcalá del Río",
+      "description": "Baliza activa 3 horas"
+    },
+    {
+      "type": "replay",
+      "severity": "warning",
+      "entity": "19420639",
+      "entity_type": "baliza",
+      "timestamp": "2026-01-04T22:48:27.343000",
+      "evidence": {
+        "repetitions": 59,
+        "lat": 43.25325,
+        "lon": -5.77257,
+        "distinct_hours": 3,
+        "first_seen": "2026-01-04T22:48:27.343000",
+        "last_seen": "2026-01-05T00:25:12.825000"
+      },
+      "carretera": "AS-375",
+      "municipio": "Mieres",
+      "description": "Baliza activa 3 horas"
+    },
+    {
+      "type": "replay",
+      "severity": "warning",
+      "entity": "19420750",
+      "entity_type": "baliza",
+      "timestamp": "2026-01-04T22:56:47.836000",
+      "evidence": {
+        "repetitions": 60,
+        "lat": 36.78942,
+        "lon": -4.84144,
+        "distinct_hours": 3,
+        "first_seen": "2026-01-04T22:56:47.836000",
+        "last_seen": "2026-01-05T00:35:13.345000"
+      },
+      "carretera": "MA-5401",
+      "municipio": "Casarabonela",
+      "description": "Baliza activa 3 horas"
+    },
+    {
+      "type": "replay",
+      "severity": "warning",
+      "entity": "19420751",
+      "entity_type": "baliza",
+      "timestamp": "2026-01-04T22:56:47.836000",
+      "evidence": {
+        "repetitions": 60,
+        "lat": 42.05179,
+        "lon": -6.6374,
+        "distinct_hours": 3,
+        "first_seen": "2026-01-04T22:56:47.836000",
+        "last_seen": "2026-01-05T00:35:13.345000"
+      },
+      "carretera": "ZA-925",
+      "municipio": "Puebla de Sanabria",
+      "description": "Baliza activa 3 horas"
+    },
+    {
+      "type": "replay",
+      "severity": "warning",
+      "entity": "19420774",
+      "entity_type": "baliza",
+      "timestamp": "2026-01-04T22:58:27.950000",
+      "evidence": {
+        "repetitions": 59,
+        "lat": 37.46107,
+        "lon": -3.46996,
+        "distinct_hours": 3,
+        "first_seen": "2026-01-04T22:58:27.950000",
+        "last_seen": "2026-01-05T00:35:13.345000"
+      },
+      "carretera": "A-323",
+      "municipio": "Píñar",
+      "description": "Baliza activa 3 horas"
+    },
+    {
+      "type": "replay",
+      "severity": "warning",
+      "entity": "19420765",
+      "entity_type": "baliza",
+      "timestamp": "2026-01-04T22:58:27.950000",
+      "evidence": {
+        "repetitions": 59,
+        "lat": 40.33612,
+        "lon": -3.88874,
+        "distinct_hours": 3,
+        "first_seen": "2026-01-04T22:58:27.950000",
+        "last_seen": "2026-01-05T00:35:13.345000"
+      },
+      "carretera": "M-856",
+      "municipio": "Móstoles",
+      "description": "Baliza activa 3 horas"
+    }
+  ]
+}
